@@ -1,31 +1,31 @@
 {
-  "artistes": [
+  "artists": [
     {
       "id": 1,
-      "artiste": "Akami",
-      "chansons": [
+      "artist": "Akami",
+      "songs": [
         {
           "id": 1,
-          "titre": "Ode à la Malbouffe",
-          "musique": "./public/music/OdeALaMalbouffe.mp3",
+          "title": "Ode à la Malbouffe",
+          "music": "./public/music/OdeALaMalbouffe.mp3",
           "image": "./public/img/malbouffe.jpg"
         },
         {
           "id": 2,
-          "titre": "New Serenade",
-          "musique": "./public/music/NewSerenade.mp3",
+          "title": "New Serenade",
+          "music": "./public/music/NewSerenade.mp3",
           "image": "./public/img/romantique.jpg"
         }
       ]
     },
     {
       "id": 2,
-      "artiste": "Elo",
-      "chansons": [
+      "artist": "Elo",
+      "songs": [
         {
           "id": 3,
-          "titre": "Keep Pushing On",
-          "musique": "./public/music/KeepPushingOn.mp3",
+          "title": "Keep Pushing On",
+          "music": "./public/music/KeepPushingOn.mp3",
           "image": "./public/img/sentier.jpg"
         }
       ]
